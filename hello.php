@@ -1,10 +1,7 @@
 <?php
-echo "hello word!";
-
-echo "hello !";
-
-
-echo "www.baidu.com";
+public class {
+	echo "世界你好!!";
+}
 
 
 ?>
